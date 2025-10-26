@@ -72,5 +72,5 @@ K = \begin{bmatrix}
 \end{bmatrix}
 $$
 
-## 可分离核 (Separable Kernel)
+## 可分离核 (Separable Filter Kernel)
 TODO
