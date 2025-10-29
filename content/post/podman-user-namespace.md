@@ -79,7 +79,7 @@ $ lsns -t user -o NS,PNS,TYPE
 
 ## podman rootless userns 套娃
 这里就要说 podman userns 相关的配置选项了，主要是 `--userns` 和 `--uidmap`  
-其实两者本质是相同的，对底层的 continaer runtime 来说  
+其实两者本质是相同的，对底层的 container runtime 来说  
 都是在上面说的 container 第一层的 userns 下再套了一层 userns  
 这时 podman 把第一层的 userns 的 uid 称为 `intermediate UID`  
 文档里的路径为 `host UID -> intermediate UID -> container UID`，但其实没有什么特殊的，就是上层的 userns 而已  
