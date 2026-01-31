@@ -114,6 +114,8 @@ params:
       url: 'https://music.163.com/#/user/home?id=100178928'
     - name: x
       url: 'https://x.com/hypengw'
+    - name: gitee
+      url: 'https://git.bluempty.com'
     - name: rss
       url: index.xml
 
