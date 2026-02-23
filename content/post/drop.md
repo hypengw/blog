@@ -2,7 +2,7 @@
 title = '一路向下'
 date = 2025-04-26T23:11:24+08:00
 draft = false
-tags = ['碎碎念']
+tags = ['碎碎念', 'LLM']
 
 +++
 

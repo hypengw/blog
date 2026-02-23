@@ -3,7 +3,7 @@ title = 'LLM 代码开发的复杂度悖论'
 date = 2026-02-11T23:11:24+08:00
 draft = false
 
-tags = ['大模型']
+tags = ['LLM']
 
 +++
 
