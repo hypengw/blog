@@ -14,3 +14,4 @@ excludeFromRss: true
 | poly000 | [poly000客栈](https://mokurin000.github.io) |
 | 依云 | [依云's Blog](https://blog.lilydjwg.me/) |
 | Karuboniru | [Karuboniru's Blog](https://yanqiyu.info/) |
+| Alynx Zhou | [喵's StackHarbor](https://sh.alynx.one/) |
