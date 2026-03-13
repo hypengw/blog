@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLM on Bluempty</title>
+    <link>https://blog.bluempty.com/tags/llm/</link>
+    <description>Recent content in LLM on Bluempty</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-hans</language>
+    <copyright>2025 Bluempty · CC BY-NC-SA 4.0</copyright>
+    <lastBuildDate>Wed, 11 Feb 2026 23:11:24 +0800</lastBuildDate>
+    <atom:link href="https://blog.bluempty.com/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLM 代码开发的复杂度悖论</title>
+      <link>https://blog.bluempty.com/post/ai-complexity/</link>
+      <pubDate>Wed, 11 Feb 2026 23:11:24 +0800</pubDate>
+      <guid>https://blog.bluempty.com/post/ai-complexity/</guid>
+      <description>&lt;p&gt;从刚开始的 copilot 到现在的 claude code，尝试用了这些 &lt;em&gt;AI&lt;/em&gt; 辅助开发工具。&lt;br&gt;
+博主写代码并不是奔着挣大钱去的，更多是好玩，能被许多人使用，能让自己安心而已。&lt;br&gt;
+而刚好写代码能养活自己，如果不是，也还是会另找工作然后业余时间继续写我认为还算有用的代码。&lt;br&gt;
+讨厌 &lt;em&gt;AI&lt;/em&gt; 到不是代码，更多是感到了全方位的冲击，简单来说，人的价值被稀释了。&lt;br&gt;
+不过今天不讨论这个话题，来说说 &lt;em&gt;LLM&lt;/em&gt; 在替代人写代码的一些问题。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
