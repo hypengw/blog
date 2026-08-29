@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Technology on Bluempty</title>
+    <link>https://blog.bluempty.com/en/tags/technology/</link>
+    <description>Recent content in Technology on Bluempty</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <copyright>2025 Bluempty · CC BY-NC-SA 4.0</copyright>
+    <lastBuildDate>Fri, 03 Jan 2025 21:25:18 +0800</lastBuildDate>
+    <atom:link href="https://blog.bluempty.com/en/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is Flatpak a Package Manager</title>
+      <link>https://blog.bluempty.com/en/post/is-flatpak-package-manager/</link>
+      <pubDate>Fri, 03 Jan 2025 21:25:18 +0800</pubDate>
+      <guid>https://blog.bluempty.com/en/post/is-flatpak-package-manager/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Reading this article requires some understanding of: &lt;code&gt;Linux distributions&lt;/code&gt;, &lt;code&gt;Linux Desktop Environment&lt;/code&gt;, &lt;code&gt;Package Manager&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;My first encounter with Linux was in high school, when there seemed to be a software that only had a Linux version, so I tried to install Arch by following online articles. I don&amp;rsquo;t remember the specific details anymore.
+For me at that time, a bunch of incomprehensible commands were quite a headache, and I was always afraid of breaking my computer.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
