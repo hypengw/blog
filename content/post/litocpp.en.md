@@ -51,9 +51,8 @@ Lito requires C++20 or newer and is designed around Modules.
 
 ### Typed Compiler Flags
 
-Once Lito only needs to support Clang, it can understand your compiler options.
-
-Common compiler flags are parsed into typed options:
+Once Lito only needs to support Clang, it can understand your compiler options.  
+Common compiler flags are parsed into typed options.  
 
 Lito does not quietly inherit `CFLAGS`, `CXXFLAGS`, or `LDFLAGS` from the current shell. Of course, you can explicitly select the `plain` profile and use `--use-env-flags` to make environment variables explicit inputs to the current build.  
 

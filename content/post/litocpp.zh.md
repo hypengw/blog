@@ -50,9 +50,8 @@ Lito 强制使用 C++20 以上的标准，并围绕 Modules 设计。
 
 ### Typed Compiler Flags
 
-Only Clang 以后，Lito 会理解你的编译选项。
-
-常见的 Compiler Flags 会被解析成 typed option：
+Only Clang 以后，Lito 会理解你的编译选项。  
+常见的 Compiler Flags 会被解析成 typed option。  
 
 Lito 默认不会偷偷继承当前 shell 里的 `CFLAGS`、`CXXFLAGS` 和 `LDFLAGS`。当然你也可以明确选择 `plain` profile，并通过 `--use-env-flags` 把环境变量变成本次构建的显式输入。  
 
